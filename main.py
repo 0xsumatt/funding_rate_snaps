@@ -191,7 +191,6 @@ def main():
     fetch_and_save_aevo_funding_snap(filename=f'aevo_funding_snap.csv')
     fetch_and_save_hl_funding_snap(filename=f'hl_funding_snap.csv')
     fetch_and_save_mango_funding_snap(filename=f'mango_funding_snap.csv')
-    fetch_and_save_vertex_funding_snap(filename=f'vertex_funding_snap.csv')
 
 if __name__ == "__main__":
     main()
